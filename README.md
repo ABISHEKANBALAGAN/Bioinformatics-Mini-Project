@@ -17,7 +17,7 @@ Contains the result files from the analysis. This includes the outputs from ORF 
 Includes the final report summarizing the entire project. The report details the methods used, results obtained, and interpretations. The report is provided in PDF format.
 
 # Project Tasks
-1. # Download a Biological Sequence from NCBI and View/Edit It
+1.  Download a Biological Sequence from NCBI and View/Edit It
 Objective: Download the human TNF gene sequence and view it using BioEdit.
 Tools: NCBI, BioEdit
 
