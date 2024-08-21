@@ -20,32 +20,47 @@ Includes the final report summarizing the entire project. The report details the
 1.  Download a Biological Sequence from NCBI and View/Edit It
    
 Objective: Download the human TNF gene sequence and view it using BioEdit.
+
 Tools: NCBI, BioEdit
 
-3. # Generate a Translation of a DNA or RNA Sequence into Amino Acids
+2.  Generate a Translation of a DNA or RNA Sequence into Amino Acids
+
 Objective: Translate the TNF gene's DNA sequence into an amino acid sequence.
+
 Tools: BioEdit
 
-3. # Finding ORFs (Open Reading Frames) in a DNA or RNA Sequence
+3.  Finding ORFs (Open Reading Frames) in a DNA or RNA Sequence
+
 Objective: Identify ORFs within the TNF gene sequence.
+
 Tools: BioEdit, SMART BLAST
 
-4. # Analyze Sequence Composition (Nucleotide or Amino Acid Frequencies)
+4.  Analyze Sequence Composition (Nucleotide or Amino Acid Frequencies)
+
 Objective: Analyze the nucleotide composition of the TNF gene sequence.
+
 Tools: BioEdit
 
-5. # Identify Transcription Factor Binding Sites Using the PROMO Tool
+5.  Identify Transcription Factor Binding Sites Using the PROMO Tool
+
 Objective: Identify potential transcription factor binding sites in the TNF gene promoter region.
+
 Tools: PROMO
 
-6. # Search for Functional Motifs in a Genome or Transcriptome Using MEME Suite
+6.  Search for Functional Motifs in a Genome or Transcriptome Using MEME Suite
+
 Objective: Search for functional motifs in the TNF gene sequence.
+
 Tools: MEME Suite
 
-7. # Predict Coding/Non-Coding Regions in a Genome Using GENSCAN
+7.  Predict Coding/Non-Coding Regions in a Genome Using GENSCAN
+
 Objective: Predict coding and non-coding regions within the TNF gene sequence.
+
 Tools: GENSCAN
 
-8. # Convert Between Sequence File Formats Using BioEdit (FASTA to PHYLIP)
+8.  Convert Between Sequence File Formats Using BioEdit (FASTA to PHYLIP)
+
 Objective: Convert the TNF gene sequence from FASTA format to PHYLIP format.
+
 Tools: BioEdit
