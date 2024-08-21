@@ -1,2 +1,4 @@
 # Bioinformatics-Mini-Project
-IL6 Gene Sequence Analysis
+Here's a template for your README file. You can customize it further as needed:
+
+# IL6 Gene Sequence Analysis
