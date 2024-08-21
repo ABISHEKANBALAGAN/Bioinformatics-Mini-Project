@@ -75,7 +75,7 @@ This project provides valuable insights into the structure, function, and regula
 
 * Clone this repository to your local machine using:
 
-git clone https://github.com/yourusername/TNF_Gene_Sequence_Analysis.git
+git clone https://github.com/ABISHEKANBALAGAN/Bioinformatics-Mini-Project.git
 
 2. Navigate the Files:
 
