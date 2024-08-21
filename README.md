@@ -18,10 +18,11 @@ Includes the final report summarizing the entire project. The report details the
 
 # Project Tasks
 1.  Download a Biological Sequence from NCBI and View/Edit It
+   
 Objective: Download the human TNF gene sequence and view it using BioEdit.
 Tools: NCBI, BioEdit
 
-2. # Generate a Translation of a DNA or RNA Sequence into Amino Acids
+3. # Generate a Translation of a DNA or RNA Sequence into Amino Acids
 Objective: Translate the TNF gene's DNA sequence into an amino acid sequence.
 Tools: BioEdit
 
