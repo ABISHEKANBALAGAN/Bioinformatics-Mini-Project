@@ -87,7 +87,7 @@ git clone https://github.com/@yourusername/Bioinformatics-Mini-Project.git
 
 3. Contribute:
    
-* If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+* If you'd like to contribute to this project, feel free to work the repository and submit a pull request with your changes.
 
   # References
 
